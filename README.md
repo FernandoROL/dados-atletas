@@ -8,7 +8,7 @@ Projeto feito para o curso DevStart Senai Frontend
 
 ### Como rodar: 
 
-    node notas-atletas.js
+    node dados-atletas.js
 
 ### Exemplo de entrada
 
